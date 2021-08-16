@@ -3,7 +3,7 @@ const questionBlocks = document.querySelectorAll(".question");
 const submitBtn = document.querySelector("#submit-btn");
 const resetBtn = document.querySelector("#reset-btn");
 
-const correctAns = ["a", "c", "b", "a", "b", "b"];
+const correctAns = ["b", "c", "b", "a", "a", "b"];
 
 var score = 0;
 
