@@ -55,8 +55,8 @@ body {
   font: inherit;
   font-size: medium;
   font-weight: light;
-  background-color: var(--bg-color);
-  border-radius: 1rem;
+  background-color: var(--background-color);
+  border-radius: .5rem;
   border-color: var(--text-color);
 }
 
