@@ -87,6 +87,7 @@ button {
   background-repeat: repeat;
   color: #073ABB;
   font-size: 500;
+  width: 6rem;
 }
 
 .btn-div {
