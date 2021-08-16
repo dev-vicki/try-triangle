@@ -78,11 +78,11 @@ form div {
 
 button {
   border: none;
-  border-radius: 1rem;
+  border-radius: .3rem;
   cursor: pointer;
   font-size: medium;
   font: inherit;
-  padding: 0.5rem;
+  padding: .5rem;
   margin: 1rem;
   background-repeat: repeat;
   color: #073ABB;
