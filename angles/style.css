@@ -69,7 +69,7 @@ body {
 
 button {
   border: none;
-  border-radius: 1rem;
+  border-radius: .3rem;
   cursor: pointer;
   font-size: medium;
   font: inherit;
@@ -78,6 +78,7 @@ button {
   background-repeat: repeat;
   color: #073ABB;
   font-size: 500;
+  width: 5rem;
 }
 
 input::-webkit-outer-spin-button,
